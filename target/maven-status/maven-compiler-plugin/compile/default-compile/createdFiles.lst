@@ -1,0 +1,13 @@
+com\gmail\gephery\partywgames\main\Main.class
+com\gmail\gephery\partywgames\util\Messenger.class
+com\gmail\gephery\partywgames\modules\GameBoardController.class
+com\gmail\gephery\partywgames\modules\GameBoardController$AchievementType.class
+com\gmail\gephery\partywgames\controllers\PWGText.class
+com\gmail\gephery\partywgames\controllers\PWGListeners.class
+com\gmail\gephery\partywgames\util\CMDKeyWordTools.class
+com\gmail\gephery\partywgames\modules\GameBoard.class
+com\gmail\gephery\partywgames\modules\Voter.class
+com\gmail\gephery\partywgames\controllers\PWGAchievementListener.class
+com\gmail\gephery\partywgames\modules\GameAchievement.class
+com\gmail\gephery\partywgames\modules\GameState.class
+com\gmail\gephery\partywgames\controllers\PWGCommands.class

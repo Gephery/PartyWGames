@@ -1,0 +1,8 @@
+name: PartyWGames
+version: 1.0-SNAPSHOT
+author: Gephery
+main: com.gmail.gephery.partywgames.main.Main
+commands:
+  game:
+    description: Full list of Party With Games commands.
+    usage: /game <rungamecmd:debug:addstate:addstatecmd:addachievement:addachievementcmd:vote:switch:end>
